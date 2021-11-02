@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.05ff8ced.chunk.css",
-    "main.js": "/game/static/js/main.7297fc78.chunk.js",
-    "main.js.map": "/game/static/js/main.7297fc78.chunk.js.map",
+    "main.css": "/game/static/css/main.381a8159.chunk.css",
+    "main.js": "/game/static/js/main.c3c85e30.chunk.js",
+    "main.js.map": "/game/static/js/main.c3c85e30.chunk.js.map",
     "runtime-main.js": "/game/static/js/runtime-main.d1c4998a.js",
     "runtime-main.js.map": "/game/static/js/runtime-main.d1c4998a.js.map",
     "static/js/2.cce6d6ec.chunk.js": "/game/static/js/2.cce6d6ec.chunk.js",
     "static/js/2.cce6d6ec.chunk.js.map": "/game/static/js/2.cce6d6ec.chunk.js.map",
     "index.html": "/game/index.html",
-    "static/css/main.05ff8ced.chunk.css.map": "/game/static/css/main.05ff8ced.chunk.css.map",
+    "static/css/main.381a8159.chunk.css.map": "/game/static/css/main.381a8159.chunk.css.map",
     "static/js/2.cce6d6ec.chunk.js.LICENSE.txt": "/game/static/js/2.cce6d6ec.chunk.js.LICENSE.txt",
     "static/media/index.css": "/game/static/media/bg.01acab37.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d1c4998a.js",
     "static/js/2.cce6d6ec.chunk.js",
-    "static/css/main.05ff8ced.chunk.css",
-    "static/js/main.7297fc78.chunk.js"
+    "static/css/main.381a8159.chunk.css",
+    "static/js/main.c3c85e30.chunk.js"
   ]
 }
